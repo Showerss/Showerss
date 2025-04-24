@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Currently a CS undergrad, applying to my Master's
+I love humanitarian-focused work and want to use my skillset to help others.
