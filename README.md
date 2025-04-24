@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Currently a CS undergrad, applying to my Master's
+Currently a CS undergrad, applying to my Master's/n
 I love humanitarian-focused work and want to use my skillset to help others.
