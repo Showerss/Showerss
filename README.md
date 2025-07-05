@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Phil!
 
-<!--
-**Showerss/Showerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a CS undergrad, applying to my Master's
 
-Here are some ideas to get you started:
+I love humanitarian-focused work and want to use my skillset to help others.
 
 - 🔭 I’m currently working on a buoy project using GO!
 - 🌱 I’m currently learning how to complete my B.S.!
@@ -13,9 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email is best.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a long haired dalmatian named Deacon! :)
--->
-
-
-Currently a CS undergrad, applying to my Master's
-
-I love humanitarian-focused work and want to use my skillset to help others.
