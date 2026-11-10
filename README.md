@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## About
 
 > [!NOTE]
@@ -24,8 +22,6 @@
 - **On the side:** a modular Unity game system and RL game agents in C#
 - **Ask me about:** rugby and swimming
 - **Fun fact:** my long-haired dalmatian, Deacon
-
----
 
 ## Tech Stack
 
@@ -38,8 +34,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
 
 ## Selected Work
 
@@ -80,15 +74,11 @@
 
 </details>
 
----
-
 ## Currently
 
 - Tinkering with solo projects on efficiency research, programming languages, and machine learning
 - Growing the Retro Game System and moving more of my work to OOP in C#
 - Practicing algorithms on [NeetCode](https://github.com/Showerss/neetcode-submissions)
-
----
 
 ## Let's Collaborate
 
