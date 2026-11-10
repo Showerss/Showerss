@@ -16,9 +16,9 @@
 
 ## 🧭 About
 
-I'm pursuing a Master's in Computer Science with a goal of applying it to **green engineering, robotics, and humanitarian work**.
+I'm pursuing a Master's in Computer Science with a goal of applying it to **green engineering, efficiency, robotics, and humanitarian efforts**.
 
-- 🔭 **Now:** Messing around in side projects during Grad School
+- 🔭 **Now:** Messing around in side projects during Grad School, trying to do projects that line up with potential research
 - 🎓 **Studying:** Masters of CS @ Northeastern University, aiming for a PhD
 - 🎮 **On the side:** reusable Unity toolkits and game tooling
 - 🏉 **Ask me about:** rugby and swimming
