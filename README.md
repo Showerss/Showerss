@@ -27,6 +27,8 @@ I'm pursuing a Master's in Computer Science with a goal of applying it to **gree
 ## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -43,7 +45,10 @@ C# reinforcement-learning project that teaches a computer to play games by trial
 ![TorchSharp](https://img.shields.io/badge/TorchSharp-PPO-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### 🔎 [WeSearch](https://github.com/Showerss/WeSearch)
-*One-line description of WeSearch goes here.*
+A model-agnostic AI research lab. Role-based agents (PI, postdoc, builders, independent reviewers) work from plain files and a small `lab` CLI. The CLI refuses to promote a claim until independent reviewers on a different model have verified it, so results are checked by code, not by a model's goodwill.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM-Agents-8A2BE2?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
