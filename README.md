@@ -18,8 +18,8 @@
 
 I'm pursuing a Master's in Computer Science with a goal of applying it to **green engineering, robotics, and humanitarian work**.
 
-- 🔭 **Now:** adding machine-learning capabilities to medical pump devices
-- 🎓 **Studying:** CS @ Northeastern University, aiming for a PhD
+- 🔭 **Now:** Messing around in side projects during Grad School
+- 🎓 **Studying:** Masters of CS @ Northeastern University, aiming for a PhD
 - 🎮 **On the side:** reusable Unity toolkits and game tooling
 - 🏉 **Ask me about:** rugby and swimming
 - 🐕 **Fun fact:** my long-haired dalmatian, Deacon
