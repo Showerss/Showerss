@@ -15,7 +15,6 @@
 ---
 
 ## About
-*Who I am and what I care about*
 
 > [!NOTE]
 > I'm pursuing a Master's in Computer Science with a goal of applying it to **green engineering, robotics, and humanitarian work**.
@@ -29,7 +28,6 @@
 ---
 
 ## Tech Stack
-*Languages and tools I work with*
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -44,7 +42,6 @@
 ---
 
 ## Selected Work
-*Three projects, each with its own repo*
 
 ### GameTrainerSharp
 > [!TIP]
@@ -86,7 +83,6 @@
 ---
 
 ## Currently
-*What I'm working on right now*
 
 - Tinkering with solo projects on efficiency research, programming languages, and machine learning
 - Growing the Retro Game System and moving more of my work to OOP in C#
@@ -95,7 +91,6 @@
 ---
 
 ## Let's Collaborate
-*How to reach me*
 
 > [!NOTE]
 > I'm happy to chat about sustainability tech, robotics, efficiency, programming languages, ML, or game dev. **Email is the best way to reach me.**
